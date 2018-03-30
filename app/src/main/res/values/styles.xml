@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="Delight"
+    parent="Theme.AppCompat.Light.NoActionBar">
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+    <item name="android:statusBarColor">#000000</item>
+    <item name="android:windowContentTransitions">true</item>
+  </style>
+
+
+  <style name="Delight.Translucent">
+    <item name="android:windowBackground">@color/scrim</item>
+    <item name="android:windowContentTransitions">true</item>
+    <item name="android:windowActivityTransitions">true</item>
+    <item name="android:windowTranslucentStatus">true</item>
+    <item name="android:colorBackgroundCacheHint">@null</item>
+    <item name="android:windowTranslucentNavigation">true</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowIsFloating">false</item>
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+  </style>
+
+  <color name="scrim">#99323232</color>
+</resources>
