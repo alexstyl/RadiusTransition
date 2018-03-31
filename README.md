@@ -1,6 +1,6 @@
 # RadiusTransition
 
-A showcase of how to transition between a circlular image to a square one across activities. The image in this example is fetched via Glide.
+A showcase of how to [transition](https://developer.android.com/training/transitions/custom-transitions.html) between a circlular image to a square one across activities. The image in this example is fetched via [Glide](https://github.com/bumptech/glide).
 
 # Preview
 
