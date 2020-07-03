@@ -8,4 +8,4 @@ A showcase of how to [transition](https://developer.android.com/training/transit
 
 
 # The Transition
-In reality, all you need to know in terms of transition is inside the [RadiusTransition](https://github.com/alexstyl/RadiusTransition/blob/master/app/src/main/java/com/alexstyl/radiustransition/transition/RadiusTransition.kt) class. This repo shows you how to use it and how to combine it with multiple transitions such as the ChangeShape and ArcMotion for a nicer effect.
+In reality, all you need to know in terms of transition is inside the [RadiusTransition](https://github.com/alexstyl/RadiusTransition/blob/main/app/src/main/java/com/alexstyl/radiustransition/transition/RadiusTransition.kt) class. This repo shows you how to use it and how to combine it with multiple transitions such as the ChangeShape and ArcMotion for a nicer effect.
