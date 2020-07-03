@@ -4,7 +4,7 @@ A showcase of how to [transition](https://developer.android.com/training/transit
 
 # Preview
 
-![Transition from circle to square](https://github.com/alexstyl/RadiusTransition/blob/master/art/transition_to_square.gif?raw=true)
+![Transition from circle to square](https://github.com/alexstyl/RadiusTransition/blob/main/art/transition_to_square.gif?raw=true)
 
 
 # The Transition
